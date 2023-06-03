@@ -1,0 +1,2 @@
+robot_description:robot_navigation:robot_simulations/turtlebot3_fake:robot_simulations/turtlebot3_gazebo:robot_simulations/turtlebot3_simulations:slam_gmapping-melodic-devel/gmapping:slam_gmapping-melodic-devel/slam_gmapping:velodyne_simulator-master/velodyne_gazebo_plugins:velodyne_simulator-master/velodyne_simulator
+-DCATKIN_DEVEL_PREFIX=/home/tu2022/Desktop/robot_simulation/devel -DCMAKE_INSTALL_PREFIX=/home/tu2022/Desktop/robot_simulation/install -G Unix Makefiles
