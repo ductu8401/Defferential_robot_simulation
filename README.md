@@ -8,7 +8,7 @@
 <p> Environmental corridor 2nd floor, building A10, Hanoi University of Industry was built:
 </p>
 <p align="center">
-  <img src="https://github.com/ductu8401/Defferential_robot_simulation/assets/119555693/cd5e70b6-fd3a-42c2-b1ed-f5329971891e" />
+  <img src="https://github.com/ductu8401/Defferential_robot_simulation/assets/119555693/fc0244c2-ec83-466b-8404-46b578dc9d49" />
 </p>
 
 
